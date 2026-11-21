@@ -8,7 +8,6 @@ struct Node {
 
 struct Node *head = NULL;
 
-// হেল্পার ফাংশন: নতুন নোড তৈরি করে
 struct Node* makeNode(int val) {
     struct Node *n = (struct Node*)malloc(sizeof(struct Node));
     if (n == NULL) {
