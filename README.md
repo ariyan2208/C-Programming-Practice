@@ -1,1 +1,1 @@
-# C Programming Singly Linked List 
+# C Programming Linked List 
